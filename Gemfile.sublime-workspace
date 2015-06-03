@@ -1,0 +1,372 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Conct",
+				"ContactDatabase"
+			],
+			[
+				"row",
+				"row_array"
+			],
+			[
+				"new",
+				"newcontact"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"num_",
+				"num_wings"
+			],
+			[
+				"col",
+				"colour"
+			],
+			[
+				"num",
+				"num_wings"
+			],
+			[
+				"warm",
+				"warm_blooded"
+			],
+			[
+				"w",
+				"warm_blooded"
+			],
+			[
+				"n",
+				"num_legs"
+			],
+			[
+				"attr_",
+				"attr_accessor"
+			],
+			[
+				"Article",
+				"Article"
+			],
+			[
+				"article",
+				"article_title"
+			],
+			[
+				"em",
+				"empty_remain"
+			],
+			[
+				"empty",
+				"empty_remain"
+			],
+			[
+				"empty_",
+				"empty_bottles_caps"
+			],
+			[
+				"caps",
+				"caps_remain"
+			],
+			[
+				"inv",
+				"invest_return"
+			],
+			[
+				"free",
+				"free_caps"
+			],
+			[
+				"correc",
+				"correct_answer1"
+			],
+			[
+				"player",
+				"player2_life"
+			],
+			[
+				"pla",
+				"player1_life"
+			],
+			[
+				"player2",
+				"player2_score"
+			],
+			[
+				"pl",
+				"player2_score"
+			],
+			[
+				"player1",
+				"player1_score"
+			],
+			[
+				"ran",
+				"random_num"
+			],
+			[
+				"ra",
+				"random_num"
+			],
+			[
+				"user",
+				"user_reply"
+			],
+			[
+				"fizz",
+				"fizz_buzz_check"
+			],
+			[
+				"el",
+				"elsif	elsif ..."
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jessica/lighthouse/W2D1/ContactList/contact.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/ContactList/contact_database.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/ContactList/contact_list.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/ContactList/.gitignore",
+		"/C/Users/Jessica/lighthouse/W2D1/ContactList/contact_data.csv.columns",
+		"/C/Users/Jessica/lighthouse/W2D1/ContactList/contact_data.csv",
+		"/C/Users/Jessica/lighthouse/W2D1/Animals/animals.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/ContactList/IDGen.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/Animals/main.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/Animals/amphibian.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/Animals/bird.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/Animals/bat.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/Animals/mammal.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/Animals/primate.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/Animals/chimp.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/Animals/frog.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/Animals/parrot.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/Animals/flight.rb",
+		"/C/Users/Jessica/lighthouse/W1D4/twoplayers/start.rb",
+		"/C/Users/Jessica/lighthouse/W2D1/input_output.rb",
+		"/C/Users/Jessica/lighthouse/W1D6/rspecdebug/2_arrays.rb",
+		"/C/Users/Jessica/lighthouse/W1D6/rspecdebug/1_hello_world.rb",
+		"/C/Users/Jessica/lighthouse/Particle/main.rb",
+		"/C/Users/Jessica/lighthouse/W1D6/poppinbottles/lighthouse-w1d5-poppin-bottles.md",
+		"/C/Users/Jessica/lighthouse/W1D6/poppinbottles/poppin-bottles.rb",
+		"/C/Users/Jessica/lighthouse/W1D4/twoplayers/question.rb",
+		"/C/Users/Jessica/lighthouse/W1D4/twoplayers/calculatescore.rb",
+		"/C/Users/Jessica/lighthouse/W1D4/twoplayers/answer.rb",
+		"/C/Users/Jessica/lighthouse/W1D4/twoplayers/player.rb",
+		"/C/Users/Jessica/lighthouse/W1D4/twoplayers/check.rb",
+		"/C/Users/Jessica/lighthouse/W1D4/twoplayers/twoplayers.rb",
+		"/C/Users/Jessica/lighthouse/W1D4/twoplayers/calculatescore",
+		"/C/Users/Jessica/lighthouse/W1D4/candidates/main.rb",
+		"/C/Users/Jessica/lighthouse/W1D4/candidates/candidates.rb",
+		"/C/Users/Jessica/lighthouse/W1D4/candidates/filters.rb",
+		"/C/Users/Jessica/lighthouse/W1D4/regularexpressions/regular_expressions.rb",
+		"/C/Users/Jessica/lighthouse/W1D4/benchmark/benchmark_with_block.rb",
+		"/C/Users/Jessica/lighthouse/W1D3/Romannumerals/roman_numerals.rb",
+		"/C/Users/Jessica/lighthouse/W1D3/Stateinfo/state_info.rb",
+		"/C/Users/Jessica/lighthouse/W1D3/charactercount.rb",
+		"/C/Users/Jessica/lighthouse/W1D3/Debug/debug04.rb",
+		"/C/Users/Jessica/lighthouse/W1D3/Debug/debug03.rb",
+		"/C/Users/Jessica/lighthouse/W1D3/Debug/debug02.rb",
+		"/C/Users/Jessica/lighthouse/W1D3/Debug/debug01.rb",
+		"/C/Users/Jessica/lighthouse/W1D3/Debug/error_example.rb",
+		"/C/Users/Jessica/lighthouse/W1D2/Bannercost/poopedtest.rb",
+		"/C/Users/Jessica/lighthouse/W1D2/Bannercost/bannercost.rb",
+		"/C/Users/Jessica/lighthouse/W1D2/sortingalgorithm/sort.rb",
+		"/C/Users/Jessica/lighthouse/W1D2/Fizzbuzz/fizzbuzz-refactored.rb",
+		"/C/Users/Jessica/lighthouse/W1D2/Shakil/shakil_the_dog.rb",
+		"/C/Users/Jessica/lighthouse/W1D2/TheYuppyVancouverite/renter-new.rb",
+		"/C/Users/Jessica/lighthouse/W1D2/The Yuppy Vancouverite/renter.rb",
+		"/C/Users/Jessica/lighthouse/W1D2/Max Code/maxtest.rb",
+		"/C/Users/Jessica/lighthouse/W1D2/Fizzbuzz/fizzbuzz.rb",
+		"/C/Users/Jessica/lighthouse/W1D2/Fizzbuzz/fizzbuzz-new.rb",
+		"/C/Users/Jessica/lighthouse/W1D2/945b67f0ac4775e03afd/maxtest.rb",
+		"/C/Users/Jessica/lighthouse/hello.rb",
+		"/C/Users/Jessica/lighthouse/day2.rb",
+		"/C/Users/Jessica/Developer Projects/Lighthouse Prep-Work/Calculator.rb",
+		"/C/Users/Jessica/Documents/Prep Work Assignments/fizzbuzz.rb",
+		"/C/Users/Jessica/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jessica/AppData/Roaming/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/C/Users/Jessica/Documents/Prep Work Assignments/Fizzbuzz",
+		"/C/Users/Jessica/Documents/Prep Work Assignments/Fizzbuzz.js",
+		"/C/Users/Jessica/Documents/Prep Work Assignments/recipe.html",
+		"/C/Users/Jessica/Documents/Prep Work Assignments/style.css",
+		"/C/Users/Jessica/Documents/Prep Work Assignments/script.js",
+		"/C/Users/Jessica/Documents/Prep Work Assignments/recipe.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"puts",
+			"ContactDatabase",
+			"contacts",
+			"@@",
+			"        @@",
+			"row",
+			"\"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Gemfile.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Jessica\\lighthouse\\W2D1\\ContactList\\contact_list.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 106.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

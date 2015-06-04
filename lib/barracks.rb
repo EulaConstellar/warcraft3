@@ -1,19 +1,15 @@
 class Barracks
-  attr_accessor :footman
+  attr_accessor :footman, :barrack_health, :food, :gold, :lumber
 
   def initialize
     @gold = 1000
     @food = 80
-    @footman
-    @peasant
+    @lumber = 500
+    @barrack_health = 500
   end
 
   def can_train_footman?
-    if gold >= 135 && food >= 2
-      true
-    else
-      false
-    end
+    gold >= 135 && food >= 2
   end
 
   def train_footman
@@ -40,11 +36,23 @@ class Barracks
     end
   end
 
-  def food
-    @food
+  def can_make_siegeengine?
+    gold >= 200 && lumber >= 60 && food >= 3
   end
 
-  def gold
-    @gold
+  def make_siegeengine
+    if can_make_siegeengine
+      @gold = (@gold - 200)
+      @lumber = (@lumber - 60)
+      @food = (@food - 3)
+    end
+  end
+
+  def dead?
+    @barrack_health == 0
+  end
+
+ def damage(attack_power)
+    @barrack_health = (@barrack_health - attack_power)
   end
 end
